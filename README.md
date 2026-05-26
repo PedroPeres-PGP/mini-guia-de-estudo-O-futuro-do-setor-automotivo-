@@ -23,24 +23,24 @@ Dentro disso tivemos diversos outros assuntos, como ecônomia e como pode afetar
   1.4 Segurança e Regulamentação (ADAS): Sistemas Avançados de Assistência ao Condutor (ADAS), como frenagem automática de emergência e assistente de faixa,              tornam-se requisitos fundamentais e, em muitos casos, obrigatórios para novos projetos no Brasil a partir de 2026
 
   1.5 Domínio das Marcas Chinesas: O ecossistema automotivo chinês dita o ritmo global de inovação, com marcas como BYD e GWM liderando a cadeia de suprimentos de       baterias e acelerando os ciclos de desenvolvimento de produtos no mercado nacional
--
-  2.  Principais Conceitos
--
-    2.1 SDV (Software-Defined Vehicle): Modelo onde as funcionalidades e a evolução do veículo são controladas majoritariamente por software, e não por hardware.
--
-     2.2 ADAS (Advanced Driver Assistance Systems): Conjunto de tecnologias eletrónicas que auxiliam o motorista na condução e estacionamento, focando na                   prevenção de acidentes.
--      
-     2.3 OTA (Over-the-Air): Tecnologia que permite a atualização remota do software do veículo via conexão sem fio (Wi-Fi ou 5G).
-     -
-     2.4 V2X (Vehicle-to-Everything): Conceito de conectividade onde o carro se comunica com semáforos, outros veículos e infraestrutura urbana em tempo real.
+
+2.  Principais Conceitos
+
+  2.1 SDV (Software-Defined Vehicle): Modelo onde as funcionalidades e a evolução do veículo são controladas majoritariamente por software, e não por hardware.
+
+  2.2 ADAS (Advanced Driver Assistance Systems): Conjunto de tecnologias eletrónicas que auxiliam o motorista na condução e estacionamento, focando na                   prevenção de acidentes.
+     
+  2.3 OTA (Over-the-Air): Tecnologia que permite a atualização remota do software do veículo via conexão sem fio (Wi-Fi ou 5G).
+     
+  2.4 V2X (Vehicle-to-Everything): Conceito de conectividade onde o carro se comunica com semáforos, outros veículos e infraestrutura urbana em tempo real.
      -
      2.5 LFP (Fosfato de Ferro-Lítio): Química de bateria amplamente utilizada por marcas chinesas devido ao menor custo e maior segurança térmica.
      -
      2.6 Bateria Semissólida: Tecnologia híbrida de bateria que utiliza eletrólitos sólidos e líquidos em gel, aumentando a autonomia para até 900 km antes das             baterias 100% sólidas chegarem ao mercado.
      -
     2.7 Lead Time: Tempo total decorrido entre o início de um processo produtivo e sua conclusão, métrica reduzida em 2026 pelo uso de IA nas fábricas.
-    -
-4.  Algumas das Fontes utilizadas
+
+3.  Algumas das Fontes utilizadas
    3.1 https://motorshow.com.br/nacionalizacao-de-funcoes-adas
     
    3.2. https://www.seudinheiro.com/2026/lifestyle/salao-de-pequim-7-tendencias-que-vao-transformar-o-mercado-automotivo-brasileiro-edvl/
