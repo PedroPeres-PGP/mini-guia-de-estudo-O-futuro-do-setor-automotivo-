@@ -1,4 +1,4 @@
-# mini-guia-de-estudo-As-Tendências-do-setor-automotivo-
+#As-Tendências-do-setor-automotivo-
 
 https://notebooklm.google.com/notebook/ceece7e2-2954-4d6e-ae8b-0ec737a292d7
 
